@@ -2,6 +2,7 @@
 
 **TaskFlow** es un gestor de tareas minimalista diseñado bajo una estética de "Editorial Suizo Modernizado". No es solo una lista de pendientes; es un entorno de enfoque que integra la metodología Pomodoro para maximizar la productividad sin distracciones visuales.
 
+<img width="1280" height="894" alt="image" src="https://github.com/user-attachments/assets/07c26400-beac-4bd1-ab3f-62af8ed93386" />
 
 
 ## ✦ Características Principales
